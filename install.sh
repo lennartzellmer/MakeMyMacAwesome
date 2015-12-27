@@ -42,6 +42,10 @@ brew cask install keka
 brew cask install adobe-creative-cloud
 brew cask install sqlitebrowser
 brew cask install spotify
+brew cask install parallels-desktop
+brew cask install microsoft-office
+brew cask install mamp
+brew cask install minecraft
 
 ## Install Atom
 brew cask install atom
