@@ -42,7 +42,8 @@ brew cask install keka
 brew cask install adobe-creative-cloud
 brew cask install sqlitebrowser
 brew cask install spotify
-brew cask install microsoft-office
+brew cask install little-snitch
+brew install sshuttle
 
 ## Install Atom
 brew cask install atom
